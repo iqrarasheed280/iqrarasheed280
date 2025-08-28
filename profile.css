@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.profile {height: 600px;
+    width: 350px;
+    background-color: #1a1f1f;
+    color: rgba(212, 200, 200, 0.603);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 500px;
+    flex-wrap: wrap;
+    
+}
+.profile-pic{height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    margin-top: 5px;
+    border-radius: 50%;
+    position: relative;
+    left: 80px;
+}
+h2{position: relative;
+    margin-top:160px ;
+    right: 10px;
+}
+h3{
+padding-bottom: 130px;
+color: green;
+left: 20px;
+position: relative;
+}
+p{
+    
+}
